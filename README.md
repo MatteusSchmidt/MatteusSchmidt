@@ -1,6 +1,6 @@
 ![GITHUB_BANNER](https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/f1393546-b1dd-42d7-81c2-48f4093cafc4)
 
-***About Me:*** I'm an undergrad student at USC persuant of a minor in Computer Programming and Innovation: The Digital Entrepreneur.
+***About Me:*** I'm an undergrad student at USC persuant of minors in Computer Programming and Innovation: The Digital Entrepreneur.
 
 
 

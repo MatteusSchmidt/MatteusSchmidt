@@ -5,7 +5,8 @@
 
 
 
-Technical Skills: 
+**Technical Skills:**
+
 <img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/1eb2f71e-3019-4258-95ce-03e6d4ea6572" height=40>
 <img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/9c4e0117-5b63-437a-90d7-8ec2e26ad6d8" height=40>
 <img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/2ee08c23-c5c3-4747-80c6-8736fa43efef" height=40>

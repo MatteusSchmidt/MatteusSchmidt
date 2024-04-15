@@ -3,36 +3,27 @@
 ***About Me:*** I'm an undergrad student at USC persuant of minors in Computer Programming and Innovation: The Digital Entrepreneur.
 
 
+![Django_design](https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/8e91fb6b-f696-491e-b9bb-203267613578)
+
 
 **Technical Skills:**
 
-<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/1eb2f71e-3019-4258-95ce-03e6d4ea6572" height=30>
-<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/9c4e0117-5b63-437a-90d7-8ec2e26ad6d8" height=30>
-<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/2ee08c23-c5c3-4747-80c6-8736fa43efef" height=30>
-<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/bd49ca9f-9641-4e6f-8ccb-64059baf2e0f" height=30>
-<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/6a4287f9-d33d-493d-8c77-3d1dbc493106" height=30>
-<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/e76496fc-1cbf-4713-b1c5-a822b6b457f0" height=30>
-<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/f5a9303b-a652-4b99-9c37-f25b267ccfee" height=30>
-<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/a622e280-7c50-42ba-929f-a00e94301b0d" height=30>
-<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/8edc913f-b352-419c-849c-c27964f97f3a" height=30>
-<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/8db206e8-7101-47fa-88d5-72c1af44bd00" height=30>
-<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/36c23b26-7ae9-44d3-ada0-522dd7c46097" height=30>
-<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/247f1916-594b-4ab3-9e9a-9baf3190f3cc" height=30>
-<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/a71dcb10-fbc5-466c-a094-d5d4eade4227" height=30>
-<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/f16418d4-a76c-455c-b672-039a294a5e22" height=30>
-<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/ee44396a-4ff1-4ed8-93dc-9b72431827e1" height=30>
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/607068cf-2cd1-442c-93f5-e5106f874be3" height=30>
+<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/988118af-4e9d-4302-9969-6b94dd223516" height=30>
+<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/973bd2e0-bd24-4d75-9ae0-f677d0d508da" height=30>
+<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/e6637757-d342-4d07-b2b3-fbfb952c2215" height=30>
+<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/ec5e0232-a03f-4382-b347-f7eddca3baf7" height=30>
+<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/7f25dc6b-ee70-4500-859d-1fe38ef53eb9" height=30>
+<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/8e91fb6b-f696-491e-b9bb-203267613578" height=30>
+<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/5fae095e-bbf7-4639-8295-855e5bd467c3" height=30>
+<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/bc51336a-8956-4a66-b76b-2766b964d92e" height=30>
+<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/335bb0a8-5ef0-4b6d-ac62-8aa3f5b5a719" height=30>
+<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/c73d5fdb-7c38-4dbb-9c31-5f69a789b74e" height=30>
+<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/fdb8743b-fbcc-4ea3-b5de-1d3c65c52732" height=30>
+<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/2a29cded-b569-4fae-b568-7b40c0bebb8c" height=30>
+<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/a7d199e9-cdf9-4777-a228-ae51a52f30d8" height=30>
+<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/00c560b5-1379-44b1-9494-5575bcf1c37a" height=30>
+<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/a342fd15-bb11-4970-abc3-b14c3f06e0b1" height=30>
 
 
 <!--

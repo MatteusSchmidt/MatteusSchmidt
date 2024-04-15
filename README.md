@@ -3,7 +3,6 @@
 ***About Me:*** I'm an undergrad student at USC persuant of minors in Computer Programming and Innovation: The Digital Entrepreneur.
 
 
-![Django_design](https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/8e91fb6b-f696-491e-b9bb-203267613578)
 
 
 **Technical Skills:**

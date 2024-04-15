@@ -1,4 +1,5 @@
 ### Hi there 👋
+![GITHUB_BANNER](https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/996dbe12-42cd-4b81-85a7-659583f3822b)
 
 <!--
 **MatteusSchmidt/MatteusSchmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

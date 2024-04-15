@@ -4,8 +4,6 @@ About Me: I'm an undergrad student at USC persuant of a minor in Computer Progra
 
 
 
-
-
 **Technical Skills:**
 
 <img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/1eb2f71e-3019-4258-95ce-03e6d4ea6572" height=30>
@@ -16,6 +14,7 @@ About Me: I'm an undergrad student at USC persuant of a minor in Computer Progra
 <img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/e76496fc-1cbf-4713-b1c5-a822b6b457f0" height=30>
 <img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/f5a9303b-a652-4b99-9c37-f25b267ccfee" height=30>
 <img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/a622e280-7c50-42ba-929f-a00e94301b0d" height=30>
+<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/8edc913f-b352-419c-849c-c27964f97f3a" height=30>
 <img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/8db206e8-7101-47fa-88d5-72c1af44bd00" height=30>
 <img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/36c23b26-7ae9-44d3-ada0-522dd7c46097" height=30>
 <img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/247f1916-594b-4ab3-9e9a-9baf3190f3cc" height=30>

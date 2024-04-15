@@ -1,7 +1,7 @@
 ![Matteus Schmidt](https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/cbaedb98-295c-4ad3-954e-5bea36877b66)
 
 
-![Java_design](https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/1eb2f71e-3019-4258-95ce-03e6d4ea6572)
+![Java_design](https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/1eb2f71e-3019-4258-95ce-03e6d4ea6572 | height=40)
 ![Swift_design](https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/9c4e0117-5b63-437a-90d7-8ec2e26ad6d8)
 ![SwiftUI_design](https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/2ee08c23-c5c3-4747-80c6-8736fa43efef)
 ![CocoaPods_design](https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/bd49ca9f-9641-4e6f-8ccb-64059baf2e0f)

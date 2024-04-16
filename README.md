@@ -1,4 +1,4 @@
-![GITHUB_BANNER](https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/f1393546-b1dd-42d7-81c2-48f4093cafc4)
+![Matteus Schmidt](https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/6da9fbd1-a498-48ba-b25c-b6448445241f)
 # Hello, Welcome to my GitHub!
 **About Me:** I'm an undergrad student at USC pursuant of minors in Computer Programming and Innovation: The Digital Entrepreneur.
 <br></br>

@@ -4,6 +4,8 @@
 <br></br>
 **Current Project:** I'm currently working on a full scale app in swift which autopopulates notecards using RAG, similar to knowt. Learning how to implement large scale models in Swift applications is what I look forward to the most.
 <br></br>
+**Currently Researching:** I'm currently researching DNNs in causal inferencing for price impact using the LOBSTER dataset.
+<br></br>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteusSchmidt&layout=compact&hide=javascript,css,html,jupyter%20notebook">
 </div>

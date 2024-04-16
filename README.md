@@ -1,11 +1,12 @@
 ![GITHUB_BANNER](https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/f1393546-b1dd-42d7-81c2-48f4093cafc4)
-
+# Hello, Welcome to my GitHub!
 ***About Me:*** I'm an undergrad student at USC persuant of minors in Computer Programming and Innovation: The Digital Entrepreneur.
+<br></br>
+<div align=center>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteusSchmidt&layout=compact&hide=javascript,css,html,jupyter%20notebook)
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteusSchmidt&layout=compact&hide=javascript,css,html,jupyter%20notebook)
-
-
-
+<br></br>
 **Technical Skills:**
 
 <img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/607068cf-2cd1-442c-93f5-e5106f874be3" height=30>
@@ -25,7 +26,6 @@
 <img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/00c560b5-1379-44b1-9494-5575bcf1c37a" height=30>
 <img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/a342fd15-bb11-4970-abc3-b14c3f06e0b1" height=30>
 
-<br></br>
 <br></br>
 <p align=center>
   <a href="https://whatupdawg.co"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"></a>

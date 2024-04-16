@@ -1,14 +1,11 @@
 ![GITHUB_BANNER](https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/f1393546-b1dd-42d7-81c2-48f4093cafc4)
 # Hello, Welcome to my GitHub!
 **About Me:** I'm an undergrad student at USC persuant of minors in Computer Programming and Innovation: The Digital Entrepreneur.
-
-
 <br></br>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteusSchmidt&layout=compact&hide=javascript,css,html,jupyter%20notebook">
-</div>
+</div><br></br>
 
-<br></br>
 ## **Technical Skills:**
 
 <img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/607068cf-2cd1-442c-93f5-e5106f874be3" height=30>

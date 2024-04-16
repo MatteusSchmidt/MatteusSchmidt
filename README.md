@@ -2,6 +2,7 @@
 
 ***About Me:*** I'm an undergrad student at USC persuant of minors in Computer Programming and Innovation: The Digital Entrepreneur.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteusSchmidt&layout=compact&hide=javascript,css,html,jupyter%20notebook)
 
 
 

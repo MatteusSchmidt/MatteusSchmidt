@@ -25,7 +25,8 @@
 <img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/00c560b5-1379-44b1-9494-5575bcf1c37a" height=30>
 <img src="https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/a342fd15-bb11-4970-abc3-b14c3f06e0b1" height=30>
 
-
+<br>
+<br>
 <a href="https://whatupdawg.co"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white">
 <a href="https://www.linkedin.com/in/matteus-schmidt/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 

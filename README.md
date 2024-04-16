@@ -4,7 +4,7 @@
 <br></br>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteusSchmidt&layout=compact&hide=javascript,css,html,jupyter%20notebook">
-</div><br></br>
+</div>
 
 ## **Technical Skills:**
 

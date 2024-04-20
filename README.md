@@ -1,6 +1,6 @@
 ![Matteus Schmidt](https://github.com/MatteusSchmidt/MatteusSchmidt/assets/132111359/6da9fbd1-a498-48ba-b25c-b6448445241f)
 # Hello, Welcome to my GitHub!
-**About Me:** I'm an undergrad student at USC pursuant of a B.A. in Economics, with minors in Computer Programming and Innovation: The Digital Entrepreneur. I most enjoy reading non-fiction centered around the turn of the 20th century, climbing outdoors and indoors, traveling, throwing ceramics, tinkering, and most of all, coding!
+**About Me:** I'm an undergrad student at USC pursuant of a B.S. in Economics and Mathematics, with a minor in Computer Science. I most enjoy reading non-fiction centered around the turn of the 20th century, climbing outdoors and indoors, traveling, throwing ceramics, tinkering, and most of all, coding!
 <br></br>
 **Current Project:** I'm currently working on a full scale app in swift which autopopulates notecards using RAG, similar to knowt. Learning how to implement large scale models in Swift applications is what I look forward to the most.
 <br></br>

@@ -1,4 +1,4 @@
-<img src="https://github.com/MatteusSchmidt/MatteusSchmidt/Matteus Schmidt.png" height=30>
+[MatteusSchmidt/MatteusSchmidt](https://github.com/MatteusSchmidt/MatteusSchmidt/Matteus Schmidt.png)
 # Hello, Welcome to my GitHub!
 **About Me:** I'm an student at USC pursuing a M.S. in Economics and Data Science and a B.S. in Economics and Mathematics, with a minor in Computer Programming. I most enjoy reading non-fiction centered around the turn of the 20th century, climbing outdoors and indoors, traveling, throwing ceramics, tinkering, and most of all, coding!
 <br></br>

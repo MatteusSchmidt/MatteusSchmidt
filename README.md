@@ -2,9 +2,9 @@
 # Hello, Welcome to my GitHub!
 **About Me:** I'm an student at USC pursuing a M.S. in Economics and Data Science and a B.S. in Economics and Mathematics, with a minor in Computer Programming. I most enjoy reading non-fiction centered around the turn of the 20th century, climbing outdoors and indoors, traveling, throwing ceramics, tinkering, and most of all, coding!
 <br></br>
-**Current Project:** I'm currently working on a full scale app in swift which autopopulates notecards using RAG, similar to knowt. Learning how to implement large scale models in Swift applications is what I look forward to the most. Currently working on the front end of the web app for optimized climbing gym software.
+**Current Project:** I'm currently working on an internal MCP model to mock my person with two data stores: one to provide me with research insights, and the other to provide me with insights on my own past knowledge. A model to reflect what I know, and what I will know.
 <br></br>
-**Current Research:** I'm currently researching the validity of various statistic methodologies pertinent to quantifying gentrification. Currently researching the spacial location of scanners (MRI, PET imaging devices).
+**Current Research:** No ongoing projects as I completed my thesis and fell victim to NIH cuts. Will start up independent research pertaining to ML models / theory post-grad.
 <br></br>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteusSchmidt&layout=compact&hide=javascript,css,html,jupyter%20notebook">
